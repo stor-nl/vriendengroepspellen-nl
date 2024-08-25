@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Standard Games
+permalink: /standaard/
 ---
 
 <section class="max-w-7xl mx-auto py-6">

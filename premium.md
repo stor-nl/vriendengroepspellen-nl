@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Premium Games
+permalink: /premium/
 ---
 
 <section class="text-center py-12">

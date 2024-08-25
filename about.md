@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Over Ons
+permalink: /over-ons/
 ---
 
 <section class="bg-gray-100 py-12">
